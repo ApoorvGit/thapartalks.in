@@ -23,10 +23,15 @@ The environment is very safe as I have used two way encryption of cloudflare, pa
   <li>Whenever he/she will accept your request , you will get a notification</li>
 </ol>
 <h2>Tech Stack used for making <a href="https://www.thapartalks.in">thapartalks.in</a></h2>
-<img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/1903/brand.gif?itok=jfezx6ol">
-<img src="https://fd-development.com/images/javascript.png">
-<img src="https://www.logosurfer.com/wp-content/uploads/2018/03/ajax-logo_0.png">
-<img src="https://static.javatpoint.com/csspages/images/css-tutorial.png">
-<img src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1587977020">
-<img src="https://galilsoftware.com/wp-content/uploads/2018/08/1.jpg"><br>
+<div>
+  <div style="display:inline-block;"><img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/1903/brand.gif?itok=jfezx6ol"></div>
+  <div style="display:inline-block;"><img src="https://fd-development.com/images/javascript.png"></div>
+  <div style="display:inline-block;"><img src="https://www.logosurfer.com/wp-content/uploads/2018/03/ajax-logo_0.png"></div>
+</div>
+<div>
+<div style="display:inline-block;"><img src="https://static.javatpoint.com/csspages/images/css-tutorial.png"></div>
+<div style="display:inline-block;"><img src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1587977020"></div>
+<div style="display:inline-block;"><img src="https://galilsoftware.com/wp-content/uploads/2018/08/1.jpg"></div>
+</div>
+<br>
 <h4>For more information ,Mail me at info@thapartalks.in</h4>
