@@ -1,0 +1,26 @@
+#message {
+    display:none;
+    color: #000;
+    margin-top: 10px;
+  }
+#message2{
+    display:none;
+}
+  #message p {
+    padding: 10px 35px;
+    font-size: 18px;
+  }
+.valid{
+    color:green;
+}
+.valid:before{
+    float:left;
+    content:"✔";
+}
+.invalid{
+    color:red;
+}
+.invalid:before{
+    float:left;
+    content:  "✖";
+}
