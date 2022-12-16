@@ -46,4 +46,5 @@ Link: <a href="https://thapartalks.in/">ThaparTalks.in</a>
 <img src="https://raw.githubusercontent.com/ApoorvGit/thapartalks.in/main/chat.png">
 <h3>F. Posts</h3>
 <img src="https://raw.githubusercontent.com/ApoorvGit/thapartalks.in/main/posts.png">
-
+<h3>G. Profile</h3>
+<img src="https://raw.githubusercontent.com/ApoorvGit/thapartalks.in/main/profile.png">
