@@ -33,5 +33,17 @@ The environment is very safe as I have used two way encryption of cloudflare, pa
 <h2>3. Live Link</h2>
 Link: <a href="https://thapartalks.in/">ThaparTalks.in</a>
 
-<h2> ScreenShots</h2>
+<h2>4. ScreenShots</h2>
+<h3>A. Landing Page</h3>
+<img src="https://raw.githubusercontent.com/ApoorvGit/thapartalks.in/main/home.png" >
+<h3>B. Login Through Google</h3>
+<img src="https://raw.githubusercontent.com/ApoorvGit/thapartalks.in/main/login.png">
+<h3>C. Homepage</h3>
+<img src="https://raw.githubusercontent.com/ApoorvGit/thapartalks.in/main/index.png">
+<h3>D. Find Buddy</h3>
+<img src="https://raw.githubusercontent.com/ApoorvGit/thapartalks.in/main/findbuddy.png">
+<h3>E. Live Chat</h3>
+<img src="https://raw.githubusercontent.com/ApoorvGit/thapartalks.in/main/chat.png">
+<h3>F. Posts</h3>
+<img src="https://raw.githubusercontent.com/ApoorvGit/thapartalks.in/main/posts.png">
 
