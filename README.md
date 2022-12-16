@@ -1,3 +1,8 @@
+<h1>Title - Thapartalks.in (Exclusive social network for TIET family)</h1>
+<h2>1. Methodology</h2>
+<img src="https://raw.githubusercontent.com/ApoorvGit/thapartalks.in/main/methodology.png">
+<br>
+<h2>2. Description</h2>
 It is a full fledged social networking web app exclusively for students and staff of Thapar Institute of Engineering and Technology. 
 Users can only register using Thapar Email ID ( @thapar.edu ) , so that private social environment can be provided to Students and staff of Thapar.<br>
 <h3>Features Offered by <a href="https://www.thapartalks.in">thapartalks.in</a></h3>
@@ -22,16 +27,11 @@ The environment is very safe as I have used two way encryption of cloudflare, pa
   <li>Send Buddy Request</li>
   <li>Whenever he/she will accept your request , you will get a notification</li>
 </ol>
-<h2>Tech Stack used for making <a href="https://www.thapartalks.in">thapartalks.in</a></h2>
-<div>
-  <div style="display:inline-block;"><img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/1903/brand.gif?itok=jfezx6ol"></div>
-  <div style="display:inline-block;"><img src="https://fd-development.com/images/javascript.png"></div>
-  <div style="display:inline-block;"><img src="https://www.logosurfer.com/wp-content/uploads/2018/03/ajax-logo_0.png"></div>
-</div>
-<div>
-<div style="display:inline-block;"><img src="https://static.javatpoint.com/csspages/images/css-tutorial.png"></div>
-<div style="display:inline-block;"><img src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1587977020"></div>
-<div style="display:inline-block;"><img src="https://galilsoftware.com/wp-content/uploads/2018/08/1.jpg"></div>
-</div>
-<br>
-<h4>For more information ,Mail me at info@thapartalks.in</h4>
+<h3>Tech Stack used for making <a href="https://www.thapartalks.in">thapartalks.in</a></h3>
+<img src="https://raw.githubusercontent.com/ApoorvGit/thapartalks.in/main/techstack.png">
+
+<h2>3. Live Link</h2>
+Link: <a href="https://thapartalks.in/">ThaparTalks.in</a>
+
+<h2> ScreenShots</h2>
+
